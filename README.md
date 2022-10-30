@@ -47,3 +47,7 @@
 <p>&nbsp;<img align="right" width="400px" src="https://github-readme-stats.vercel.app/api?username=ghsharma&show_icons=true&locale=en" alt="ghsharma" /></p>
 
 <p><img align="center" width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=ghsharma&" alt="ghsharma" /></p>
+
+<hr>
+
+![snake gif](https://github.com/ghsharma/ghsharma/blob/output/github-contribution-grid-snake.gif)
