@@ -49,5 +49,3 @@
 <p><img align="center" width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=ghsharma&" alt="ghsharma" /></p>
 
 <hr>
-
-![snake gif](https://github.com/ghsharma/ghsharma/blob/output/github-contribution-grid-snake.gif)
