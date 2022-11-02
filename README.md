@@ -1,5 +1,5 @@
 ![logo](https://github.com/ghsharma/ghsharma/blob/main/Black%20Minimal%20Motivation%20Quote%20LinkedIn%20Banner.png)
-<h1 align="center">Hi 👋, I'm Govind Harsh Sharma</h1>
+<h1 align="center">Hi 👋, I'm Govind Harsh Sharma.</h1>
 <hr>
 <h3 align="center">I'm a developer, geek and curious human besides being an OpenSource enthusiast. I have experience of delivering solutions for interesting problems from startup and industry spaces. I love to play football, cook and travel.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1593595/screenshots/5725252/media/5a76077ba52cc150798aaa321924cb68.jpg">
