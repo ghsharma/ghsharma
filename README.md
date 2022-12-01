@@ -1,4 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=ghsharma)
+[![Github](https://img.shields.io/github/followers/ghsharma?label=Follow&style=social)](https://github.com/ghsharma)
+
 
 ![logo](https://github.com/ghsharma/ghsharma/blob/main/Black%20Minimal%20Motivation%20Quote%20LinkedIn%20Banner.png)
 <h1 align="center">Hi👋, I'm Govind Harsh Sharma. </h1>
@@ -23,6 +25,10 @@
 <hr>
 
 [![@ghsharma's Holopin board](https://holopin.me/ghsharma)](https://holopin.io/@ghsharma)
+
+<hr>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ghsharma&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
 
 <hr>
 
