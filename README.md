@@ -56,3 +56,7 @@
 <p><img align="center" width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=ghsharma&theme=dracula" alt="ghsharma " /></p>
 
 <hr>
+
+### ✍️ Random Dev Quote:
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<hr>
