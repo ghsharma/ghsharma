@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **govindharsh42@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1pYGBUriJc7jazHrIOFcgPUYQn99dUkap/edit](https://docs.google.com/document/d/1pYGBUriJc7jazHrIOFcgPUYQn99dUkap/edit)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1jkOLdZZV-mINunpF9fjkuY-B5PuSK7hp/view?usp=sharing](https://drive.google.com/file/d/1jkOLdZZV-mINunpF9fjkuY-B5PuSK7hp/view?usp=sharing)
 
 <hr>
 
