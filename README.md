@@ -60,4 +60,3 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 <hr>
 
-![Snake animation](https://github.com/{{ghsharma}}/{{ghsharma}}/blob/output/github-contribution-grid-snake.svg)
