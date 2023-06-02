@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **React JS , Python**
 
-- 👨‍💻 All of my projects are available at [https://ghsharma.github.io/My-portfolio.github.io/](https://ghsharma.github.io/My-portfolio.github.io-/)
+- 👨‍💻 All of my projects are available at [https://ghsharma.github.io/My-portfolio.github.io-/](https://ghsharma.github.io/My-portfolio.github.io-/)
 
 - 💬 Ask me about **Web Development , Machine Learning **
 
