@@ -1,62 +1,65 @@
 ![](https://komarev.com/ghpvc/?username=ghsharma)
 [![Github](https://img.shields.io/github/followers/ghsharma?label=Follow&style=social)](https://github.com/ghsharma)
 
-
 ![logo](https://github.com/ghsharma/ghsharma/blob/main/Black%20Minimal%20Motivation%20Quote%20LinkedIn%20Banner.png)
 <h1 align="center">Hi👋, I'm Govind Harsh Sharma. </h1>
 <h3 align="center">I'm a developer, geek and curious human besides being an OpenSource enthusiast. I have experience of delivering solutions for interesting problems from startup and industry spaces. I love to play football, cook and travel.</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1593595/screenshots/5725252/media/5a76077ba52cc150798aaa321924cb68.jpg">
+
+<a href='https://github.com/ghsharma/Programing-Gifs'>
+<img align='right' src='https://programming-gifs.cyclic.app' widht=100 height=200 alt='ghsharma/Programming-Gifs'></a>
 
 <br>
+- 🔭 I’m currently working on **MERN STACK DEVELOPMENT**
 
-- 🔭 I’m currently working on **Machine Learning**
-
-- 🌱 I’m currently learning **React JS , Python**
+- 🌱 I’m currently learning **React JS**
 
 - 👨‍💻 All of my projects are available at [https://ghsharma.github.io/My-portfolio.github.io-/](https://ghsharma.github.io/My-portfolio.github.io-/)
 
-- 💬 Ask me about **Web Development , Machine Learning **
+- 💬 Ask me about **Full Stack Development**
 
-- 📫 How to reach me **govindharsh42@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1jkOLdZZV-mINunpF9fjkuY-B5PuSK7hp/view?usp=sharing](https://drive.google.com/file/d/1jkOLdZZV-mINunpF9fjkuY-B5PuSK7hp/view?usp=sharing)
-
-<hr>
+<br>
 
 [![@ghsharma's Holopin board](https://holopin.me/ghsharma)](https://holopin.io/@ghsharma)
 
-<hr>
+<br>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ghsharma&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy)
-
-
-<hr>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/govind harsh sharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="govind harsh sharma" height="30" width="40" /></a>
-<a href="https://instagram.com/ssh.harshu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ssh.harhsu" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/ghsharma" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="ghsharma" height="30" width="40" /></a>
+## <img src='.github/workflows/tech.gif' height=60/> Socials:
+<div>
+ <a href="[https://www.linkedin.com/in/g](https://www.linkedin.com/in/govind-harsh-sharma-191337197/)" ><img align="left" alt="LinkedIn" height="30px" width="100px" src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white" /></a>
+<a href="govindharsh42@gmail.com@gmail.com"><img align="left" alt="Maira gmail" height="30px" width="100px" src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white" /></a>
+<a href="[https://twitter.com/](https://twitter.com/GovindHarsh11)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ghsharma" height="30" width="40" /></a>
+<a href="[https://instagram.com/](https://twitter.com/ssh.harshu)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ghsharma" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/govindharsh42" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="govindharsh42" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/dev_harshu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="dev_harshu" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/govindharsh42" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="govindharsh42" height="30" width="40" /></a>
 <a href="https://discord.gg/gh_sharma#9383" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="gh_sharma#9383" height="30" width="40" /></a>
-</p>
-
+</div>
 <hr>
+
 <h3 align="left">Languages and Tools:</h3>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+
+<div align='center'>
+<img src="https://skillicons.dev/icons?i=py,c,cpp,html,css,bootstrap,js,jquery,react,mysql,php,mongodb,nodejs,expressjs,java,git,firebase,figma" />
+</div>
+
 
 <hr>
-<a href="http://www.github.com/ghsharma"><img src="https://github-readme-stats.vercel.app/api?username=ghsharma&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="ghsharma's GitHub stats" /></a>
 
-<a href="http://www.github.com/ghsharma"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ghsharma&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+|Stats <img src='.github/workflows/cartoon1.gif' height=20/>|Streak <img src='.github/workflows/cartoon1.gif' height=20/>|Languages <img src='.github/workflows/cartoon1.gif' height=20/>
+|---|---|---|
+|[![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=samadpls&theme=gruvbox)](https://github.com/ghsharma/)|[![GitHub Streak](https://streak-stats.demolab.com?user=ghsharma&theme=gruvbox&hide_border=true&border_radius=32&date_format=j%20M%5B%20Y%5D&ring=888888)](https://github.com/ghsharma/)|[![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ghsharma&theme=gruvbox)](https://github.com/ghsharma/)|
 
-<a href="http://www.github.com/ghsharma"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=ghsharma&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-<hr>
 
-### ✍️ Random Dev Quote:
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-<hr>
+<a href='https://github.com/ghsharma/'>
+<div align='center'>
+<img src='https://github.com/ghsharma/ghsharma/blob/output/github-contribution-grid-snake.svg'/>
+</div></a>
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ghsharma&bg_color=282624&color=d68a1f&line=a8a8a8&point=b05907&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<div align='center'>
+<img src='https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox' width=75%/></div>
+
+## 🏆 GitHub Trophies
+<div align='center'>
+<img src='https://github-profile-trophy.vercel.app/?username=ghsharma&theme=gruvbox&no-frame=true&no-bg=true&margin-w=4' width=75%/>
+<div>
