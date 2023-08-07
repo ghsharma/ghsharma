@@ -11,11 +11,11 @@
 <br>
 - 🔭 I’m currently working on **MERN STACK DEVELOPMENT**
 
-- 🌱 I’m currently learning **React JS**
+- 🌱 I’m currently learning **Backend Development**
 
 - 👨‍💻 All of my projects are available at [https://ghsharma.github.io/My-portfolio.github.io-/](https://ghsharma.github.io/My-portfolio.github.io-/)
 
-- 💬 Ask me about **Full Stack Development**
+- 💬 Ask me about **Web Development and Data Structures Algorithm**
 
 <br>
 
@@ -39,7 +39,7 @@
 <h3 align="left">Languages and Tools:</h3>
 
 <div align='center'>
-<img src="https://skillicons.dev/icons?i=py,c,cpp,html,css,bootstrap,js,jquery,react,mysql,php,mongodb,nodejs,expressjs,java,git,firebase,figma" />
+<img src="https://skillicons.dev/icons?i=py,c,cpp,html,css,bootstrap,tailwind,js,jquery,nodejs,nextjs,expressjs,react,mysql,php,mongodb,linux,java,git,firebase,cloudflare,postman,heroku,docker,figma,photoshop" />
 </div>
 
 
