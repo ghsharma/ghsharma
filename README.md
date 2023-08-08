@@ -1,7 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=ghsharma)
 [![Github](https://img.shields.io/github/followers/ghsharma?label=Follow&style=social)](https://github.com/ghsharma)
 
-![Banner](https://github.com/ghsharma/ghsharma/assets/95496933/c90c8cd8-3be9-4d9f-a6f4-65cf386a8ece)
 <h1 align="center">Hi👋, I'm Govind Harsh Sharma. </h1>
 <h3 align="center">I'm a developer, geek and curious human besides being an OpenSource enthusiast. I have experience of delivering solutions for interesting problems from startup and industry spaces. I love to play football, cook and travel.</h3>
 
