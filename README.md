@@ -25,7 +25,7 @@
 ## <img src='.github/workflows/tech.gif' height=60/> Socials:
 <div>
  <a href="[https://www.linkedin.com/in/g](https://www.linkedin.com/in/govind-harsh-sharma-191337197/)" ><img align="left" alt="LinkedIn" height="30px" width="100px" src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white" /></a>
-<a href="govindharsh42@gmail.com@gmail.com"><img align="left" alt="Maira gmail" height="30px" width="100px" src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white" /></a>
+<a href="govindharsh42@gmail.com"><img align="left" alt="Maira gmail" height="30px" width="100px" src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white" /></a>
 <a href="https://www.hackerrank.com/govindharsh42" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="govindharsh42" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/dev_harshu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="dev_harshu" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/govindharsh42" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="govindharsh42" height="30" width="40" /></a>
