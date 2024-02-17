@@ -2,21 +2,26 @@
 [![Github](https://img.shields.io/github/followers/ghsharma?label=Follow&style=social)](https://github.com/ghsharma)
 
 <h1 align="center">Ram-Ram🙏🏻, I'm Govind Harsh Sharma. </h1>
-<h3 align="center">I'm a developer, geek and curious human besides being an OpenSource enthusiast. I have experience of delivering solutions for interesting problems from startup and industry spaces. I love to play football, cook and travel.</h3>
+<h3 align="center">🌟Seasoned web developer with a knack for solving complex problems. Passionate about coding, football, cooking, and exploring new places. Let's create something awesome together! 🌟</h3>
 
-<a href='https://github.com/ghsharma/Programing-Gifs'>
-<img align='right' src='https://programming-gifs.cyclic.app' widht=100 height=200 alt='ghsharma/Programming-Gifs'></a>
+
+<h3 align="left">About Me:</h3>
+
+```javascript
+const ghsharma = {
+  fullName: "Govind Harsh Sharma",
+  pronouns: "He/Him",
+  tags: ["Frontend ❤️", "Hackathons ⚡", "Backend 💡", "Designing 🙌"],
+  communities: ["Google Developers Stuent Club 👨‍🎓"],
+  askMeAbout: ["Web Development", "Data Structures & Algorithm", "APIs", "UI Designing"],
+  reachMeOut: ["govindharsh42@gmail.com"],
+  myWork: ["https://ghsharma.github.io/My-portfolio.github.io-/"],
+  toFindMeUsername: "@ghsharma"
+};
+```
 
 <br>
-- 🔭 I’m currently working on **MERN STACK DEVELOPMENT**
-
-- 🌱 I’m currently learning **Backend Development**
-
-- 👨‍💻 All of my projects are available at [https://ghsharma.github.io/My-portfolio.github.io-/](https://ghsharma.github.io/My-portfolio.github.io-/)
-
-- 💬 Ask me about **Web Development and Data Structures & Algorithm**
-
-<br>
+<h3 align="left">Open Source Contribution:</h3>
 
 [![@ghsharma's Holopin board](https://holopin.me/ghsharma)](https://holopin.io/@ghsharma)
 
