@@ -12,8 +12,8 @@ const ghsharma = {
   fullName: "Govind Harsh Sharma",
   pronouns: "He/Him",
   tags: ["Frontend ❤️", "Hackathons ⚡", "Backend 💡", "Designing 🙌"],
-  communities: ["Google Developers Stuent Club 👨‍🎓"],
-  askMeAbout: ["Web Development", "Data Structures & Algorithm", "APIs", "UI Designing"],
+  communities: ["Google Developers Students Club 👨‍🎓"],
+  askMeAbout: ["Web Development", "Data Structures & Algorithm", "APIs", "Django" . "UI Designing"],
   reachMeOut: ["govindharsh42@gmail.com"],
   myWork: ["https://ghsharma.github.io/My-portfolio.github.io-/"],
   toFindMeUsername: "@ghsharma"
