@@ -1,7 +1,9 @@
 ![](https://komarev.com/ghpvc/?username=ghsharma)
 [![Github](https://img.shields.io/github/followers/ghsharma?label=Follow&style=social)](https://github.com/ghsharma)
+![BANNER](https://github.com/ghsharma/ghsharma/assets/95496933/87a10632-58bc-4964-96a7-7752428e4a64)
 
 <h1 align="center">Ram-Ram🙏🏻, I'm Govind Harsh Sharma. </h1>
+
 <h3 align="center">🌟Seasoned web developer with a knack for solving complex problems. Passionate about coding, football, cooking, and exploring new places. Let's create something awesome together! 🌟</h3>
 
 
@@ -15,7 +17,7 @@ const ghsharma = {
   communities: ["Google Developers Students Club 👨‍🎓"],
   askMeAbout: ["Web Development", "Data Structures & Algorithm", "APIs", "Django" . "UI Designing"],
   reachMeOut: ["govindharsh42@gmail.com"],
-  myWork: ["https://ghsharma.github.io/My-portfolio.github.io-/"],
+  myWork: ["https://ghsharma.github.io/GHS/"],
   toFindMeUsername: "@ghsharma"
 };
 ```
